@@ -71,6 +71,14 @@ body{
     margin-top: 30px;
 }
 
+.sketches{
+    color: rgb(216, 168, 245);
+}
+
+.link{
+    color: rgb(216, 168, 245);
+}
+
 .songs{
     border-bottom-style: solid;
     border-bottom-color: rgb(216, 168, 245);
