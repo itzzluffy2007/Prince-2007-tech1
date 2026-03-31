@@ -1,0 +1,103 @@
+body{
+    background: linear-gradient(90deg, black 0%, rgb(75, 22, 108) 100% );
+    background-size: contain;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(216, 168, 245);
+}
+
+.name{
+    color: rgb(216, 168, 245);
+    padding: 10px 20px;
+}
+
+.details{
+    height: 40px;;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon{
+    background: transparent;
+    color: rgb(216, 168, 245);
+    border-radius: 30px;
+    height: 30px;
+    padding-top: 10px;
+    margin-right: 40px;
+    border: none;
+    cursor: pointer;
+}
+
+.heading1{
+    margin-top: 40px;
+    color: rgb(216, 168, 245);
+}
+
+.heading2{
+    margin-top: 40px;
+    color: rgb(216, 168, 245);
+}
+
+.heading3{
+    margin-top: 40px;
+    color: rgb(216, 168, 245);
+}
+
+.heading4{
+    margin-top: 40px;
+    color: rgb(216, 168, 245);
+}
+
+.heading5{
+    margin-top: 40px;
+    color: rgb(216, 168, 245);
+}
+
+.heading6{
+    margin-top: 40px;
+    color: rgb(216, 168, 245);
+}
+
+.heading7{
+    margin-top: 40px;
+    color: rgb(216, 168, 245);
+}
+
+.intro{
+    color: rgb(216, 168, 245);
+    border-bottom-style: solid;
+    border-bottom-color: rgb(from color r g b);
+    padding-bottom: 40px;
+}
+
+.footer{
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(216, 168, 245);
+    margin-bottom: 20px;
+}
+
+.fas fa-envelope{
+    color: rgb(216, 168, 245);
+}
+
+.link{
+    color: rgb(216, 168, 245);
+}
+
+.social{
+    color: rgb(216, 168, 245);
+}
+
+.ending{
+    border-bottom-style: solid;
+    border-bottom-color: rgb(216, 168, 245);
+    padding-bottom: 40px;
+}
