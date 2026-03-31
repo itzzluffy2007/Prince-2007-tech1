@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(90deg, black 0%, rgb(75, 22, 108) 100% );
+    background-size: contain;
+}
+
+.heading{
+    margin-top: 40px;
+    color: rgb(216, 168, 245);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 460px;
+}
+
+.input{
+    width: 300px;
+    height: 120px;
+    background: transparent;
+    color: rgb(216, 168, 245);
+    margin-bottom: 50px;
+    border: solid;
+    border-color: rgb(216, 168, 245);
+}
+
+.button{
+    background: transparent;
+    color: rgb(216, 168, 245);
+    height: 60px;
+    width: 60px;
+    margin-bottom: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.zerobutton{
+    background: transparent;
+    color: rgb(216, 168, 245);
+    height: 60px;
+    width: 140px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+}
